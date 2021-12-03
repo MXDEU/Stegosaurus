@@ -1,0 +1,8 @@
+
+#a = [0, 0, 1, 1, 0, 1, 0, 1]
+#[10:19] Tom Neubert : [0, 0, 1, 1, 0, 1, 0, 1] = 53
+#[10:19] Tom Neubert : 546 - y = 53
+#[10:20] Tom Neubert : y = 493
+#[10:21] Tom Neubert : Result = 1 0 : 0 3 : 0 0 . 2 5 0 0 5 3 8 8 1
+#[10:23] Tom Neubert : y = timestamp before embedding - timestamp after embedding
+#[10:23] Tom Neubert : y dann an editcap um diesen wert dann vom timestamp abzuziehen oder 
